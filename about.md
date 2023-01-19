@@ -11,9 +11,11 @@ It was fascinating watching things move, like cars, or a packing machine in Mega
 
 Apart from my serious introduction, 
 
-I'm a F1-fanatic, mainly because of the regualtions and innovations the teams have done along the years, also Seb <3.
+I'm a F1-fanatic, mainly because of the regualtions and innovations the teams have done along the years, also Seb <3. I also play F1 (on PC) helps me get to a level of focus where I can work uninterupted, in lockdown I may or may not have played rocket league too much.
+
 Do a little climbing, long distance running, cycling, badminton, reading[^fn-read], a bit of tech-stuff[^fn-tech] & music! 
-I was into singing for a while in school, did a bunch of choirs[^fn-choir] and solo vocals. Now I'm an enthusiastic bathroom singer. My taste is inclined towards Indie & jazz, big fan of Local Train tho 
+
+I was into singing for a while in school, did a bunch of choirs[^fn-choir] and solo vocals, now I'm an enthusiastic bathroom singer. My taste is inclined towards Indie & jazz, big fan of Local Train tho 
 (hmu for spotify recommendations).
 
 
