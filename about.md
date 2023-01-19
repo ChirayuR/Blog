@@ -21,5 +21,5 @@ I was into singing for a while in school, did a bunch of choirs[^fn-choir] and s
 
 [^fn-mega]: [Mega-Factories](https://www.natgeotv.com/in/mega-factories) is a series on Nat-Geo that documents manufacturing of well known products across the world.
 [^fn-read]: non-fiction mostly.
-[^fn-tech]: not flashy, but I built a wireless split keyboard (sofle) <sub> and drones...
+[^fn-tech]: not flashy, but I built a wireless split keyboard (sofle) <sub> and quadcopters...
 [^fn-choir]: was a part of choir at the Indian Embassy of Kuwait for Independance and Republic day celebrations.
