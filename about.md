@@ -23,7 +23,7 @@ My professional resume can be accessed below:
 
 ---
 
-[^fn-mega] [Mega-Factories](https://www.natgeotv.com/in/mega-factories) is a series on Nat-Geo that documents manufacturing of well known products across the world.
-[^fn-read] (non-fiction mostly)
-[^fn-tech] (not flashy, but the budget oriented Android/Linux)
-[^fn-choir] Sang at the Indian Embassy of Kuwait for Independance and Republic day celebrations.
+[^fn-mega]: [Mega-Factories](https://www.natgeotv.com/in/mega-factories) is a series on Nat-Geo that documents manufacturing of well known products across the world.
+[^fn-read]: (non-fiction mostly)
+[^fn-tech]: (not flashy, but the budget oriented Android/Linux)
+[^fn-choir]: Sang at the Indian Embassy of Kuwait for Independance and Republic day celebrations.
