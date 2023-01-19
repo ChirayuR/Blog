@@ -15,15 +15,6 @@ Do a little climbing, long distance running, cycling, badminton, reading[^fn-rea
 I was into singing for a while in school, did a bunch of choirs[^fn-choir] and solo vocals. Now I'm an enthusiastic bathroom singer. My taste is inclined towards Indie & jazz, big fan of Local Train (hmu for spotify recommendations).
 
 
-
-My professional resume can be accessed below:
-<iframe src="https://drive.google.com/file/d/1IMxUaLEWzMG2wdT2xYdT8L9TFRts0zz8/preview" width="640" height="480" allow="autoplay"></iframe>
- 
- 
- 
- 
-
-
 ---
 
 [^fn-mega]: [Mega-Factories](https://www.natgeotv.com/in/mega-factories) is a series on Nat-Geo that documents manufacturing of well known products across the world.
