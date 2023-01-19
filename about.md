@@ -13,7 +13,7 @@ Do a little climbing, long distance running, cycling, badminton, reading[^fn-rea
 I was into singing for a while in school, did a bunch of choirs[^fn-choir] and solo vocals. Now I'm an enthusiastic bathroom singer. My taste is inclined towards Indie & jazz a little more (HMU for spotify recommendations).
 
 My professional resume can be accessed below:
-<iframe src="https://docs.google.com/gview?url=https://drive.google.com/file/d/1IMxUaLEWzMG2wdT2xYdT8L9TFRts0zz8/view?usp=sharing&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
+<iframe src="https://drive.google.com/file/d/1IMxUaLEWzMG2wdT2xYdT8L9TFRts0zz8/preview" width="640" height="480" allow="autoplay"></iframe>
  
  
  
