@@ -2,7 +2,7 @@
   url: /  
 - title: About Me
   url: /about/
-- title: Resume
+# title: Resume
   url: /resume/ 
 - title: This
   url: /this/
