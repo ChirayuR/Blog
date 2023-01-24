@@ -9,6 +9,9 @@ I'm an Undergrad at MNIT Jaipur, pursuing Mech engg. with side courses to dive i
 
 It was fascinating watching things move, like cars, or a packing machine in Mega-factories on Nat-Geo[^fn-mega]. Well that along with the idea to help people around me, I believe that we could use robotics as a tool to solve problems. Small or big is a question for later.
 
+If you are here professionally, my resume is attached [here](https://chirayur.github.io/resume/).
+
+
 Apart from my serious introduction, 
 
 I'm a F1-fanatic, mainly because of the regualtions and innovations the teams have done along the years, also Seb <3. I also play F1 (on PC) helps me get to a level of focus where I can work uninterupted, in lockdown I may or may not have played rocket league too much.
