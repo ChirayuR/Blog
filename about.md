@@ -14,7 +14,7 @@ If you are here professionally, my resume is attached [here](https://chirayur.gi
 
 Apart from my serious introduction, 
 
-I'm a F1-fanatic, mainly because of the regualtions and innovations the teams have done along the years, also Seb <3. Better than average [karting driver](https://www.instagram.com/cahair_fpv/), I also drive F1 cars (on PC <sup>hah!) helps me get to a level of focus where I can work uninterupted, and in lockdown I may or may not have played rocket league too much[^fn-RL].
+I'm a F1-fanatic, mainly because of the regualtions and innovations the teams have done along the years, also Seb <3. Better than average [karting driver](https://www.instagram.com/cahair_fpv/), I also drive F1 cars (on PC <sup>hah!</sup>) helps me get to a level of focus where I can work uninterupted, and in lockdown I may or may not have played rocket league too much[^fn-RL].
 
 Do a little climbing, long distance running, cycling, badminton, reading[^fn-read], a bit of tech-stuff[^fn-tech] & music! 
 
