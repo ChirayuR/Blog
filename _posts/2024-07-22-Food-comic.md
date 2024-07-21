@@ -13,7 +13,7 @@ Secondly, hello to myself from 1 year back[^fn-hah].
 
 I have been creating comics and just forgetting to post them, thanks for the inspiration [Randall](https://xkcd.com)![^fn-love].
 
-[Keep snackin'](../assets/Comic-lunch.png)
+![Keep snackin'](../assets/Comic-lunch.png)
 
 
 
