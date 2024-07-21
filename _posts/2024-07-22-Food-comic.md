@@ -6,15 +6,14 @@ last_modified_at: 2024-07-22 00:20:20 +0530
 tags: [blog, comic]
 toc:  false
 ---
-**Lunch?**!
+**Almonds?**!
 {: .message }
 
 Secondly, hello to myself from 1 year back[^fn-hah].
 
 I have been creating comics and just forgetting to post them, thanks for the inspiration [Randall](https://xkcd.com)![^fn-love].
 
-
-
+![Keep snackin'](./assets/Comic-lunch.png)
 
 
 
