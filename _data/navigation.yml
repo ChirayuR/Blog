@@ -1,4 +1,8 @@
 - title: Blog
-  url: /
-- title: About
+  url: /  
+- title: About Me
   url: /about/
+# title: Resume
+# url: /resume/ 
+- title: This
+  url: /this/
