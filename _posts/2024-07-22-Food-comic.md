@@ -9,7 +9,7 @@ toc:  false
 **Almonds?**!
 {: .message }
 
-![Keep snackin'](../assets/Comic-lunch.png)
+![Keep snackin'](https://github.com/ChirayuR/chirayur.github.io/blob/master/assets/Comic-lunch.png "Food Hogger")
 
 Secondly, hello to myself from 1 year back[^fn-hah].
 
