@@ -10,7 +10,7 @@ toc:  false
 {: .message }
 
 ![Keep snackin](https://github.com/ChirayuR/chirayur.github.io/blob/master/assets/Comic-lunch.png "Food Hogger")
-<iframe src="https://drive.google.com/file/d/1pMuKXIVrc2_n5Ku0hpxsk7I5cl9B6K9m/view?usp=drive_link" width="640" height="820" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1pMuKXIVrc2_n5Ku0hpxsk7I5cl9B6K9m/preview" width="640" height="820" allow="autoplay"></iframe>
 
 Secondly, hello to myself from 1 year back[^fn-hah].
 
