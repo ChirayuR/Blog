@@ -5,7 +5,7 @@ title: About
 
 A Mechanical engineer, who likes to solve problems. 
 
-I'm an Undergrad at MNIT Jaipur, pursuing Mech engg. with side courses to dive into robotics. Taken part in several hackathons, challenges & events to keep grooving - "Always need a project to keep me going". 
+I'm an Mech. engineer from MNIT Jaipur, with a special interest in robotics. Taken part in several hackathons, challenges & events to keep grooving - "Always need a project to keep me going". 
 
 It was fascinating watching things move, like cars, or a packing machine in Mega-factories on Nat-Geo[^fn-mega]. Well that along with the idea to help people around me, I believe that we could use robotics as a tool to solve problems. Small or big is a question for later.
 
